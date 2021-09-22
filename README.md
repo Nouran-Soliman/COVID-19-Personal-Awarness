@@ -1,5 +1,5 @@
 # COVID-19-Personal-Awarness
-Datavis Class Project in javascript which simulates the impact of personal precautions on disease spread.
+Datavis Class Project in javascript and D3 which simulates the impact of personal precautions on disease spread.
 
 
 * We created our final project in an observable notebook. The experience and the code can be found in that [link](https://observablehq.com/@nouran-soliman/covid-19-personal-awareness-datavis-game/5).
