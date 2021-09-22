@@ -2,7 +2,7 @@
 Datavis Class Project which simulates the impact of personal precautions on disease spread.
 
 
-* We created our final project in an observable notebook that can be found in that [link](https://observablehq.com/@nouran-soliman/covid-19-personal-awareness-datavis-game/5).
+* We created our final project in an observable notebook. The experience and the code can be found in that [link](https://observablehq.com/@nouran-soliman/covid-19-personal-awareness-datavis-game/5).
 * The presentation video can be found [here](https://www.dropbox.com/s/vudc23l4v1dvixc/COVID-19%20Personal%20Awareness-Final%20Presentation%20Video.mp4?dl=0).
 * The presentation slides can be found [here](https://www.dropbox.com/s/b7cb0br4bft71re/COVID-19%20Personal%20Awareness-Final%20Presentation.pdf?dl=0).
 * The paper can be found [here](https://www.dropbox.com/s/5bpy8ebn2t1glqx/6_894_DataVis_Project___COVID_19_Personal_Awareness_Game.pdf?dl=0).
